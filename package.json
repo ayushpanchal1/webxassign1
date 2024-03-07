@@ -1,0 +1,13 @@
+{
+    "name": "product-catalog",
+    "version": "1.0.0",
+    "description": "Simple product catalog with TypeScript",
+    "scripts": {
+        "build": "tsc",
+        "start": "lite-server"
+    },
+    "devDependencies": {
+        "lite-server": "^2.6.1",
+        "typescript": "^4.6.2"
+    }
+}
